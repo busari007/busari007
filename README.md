@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @busari007
 - 👀 I’m interested in game development and graphics design
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ; by text @+2348131032512
 
 <!---
