@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @busari007
-- 👀 I’m a full stack developer that specialises in html, css, javascript and reactjs for frontend and express for backend.
+- 👀 I’m a full stack developer that specialises in html, css, javascript, reactjs, laravel and tailwindCss for frontend and express for backend.
 - 🌱 I’m currently learning graphics design
 - 📫 How to reach me ; by text @+2348131032512 or send an email @williambusari@gmail.com
 
