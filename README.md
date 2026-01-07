@@ -36,9 +36,14 @@ I’m a motivated Full Stack Developer with **5+ years of semi-professional expe
 
 ---
 
-## ☁️ Certification
-🎓 **Google Cloud – Associate Cloud Engineer**  
-Experienced in deploying, managing, and monitoring cloud-native applications on GCP.
+## 📜 Licenses & Certifications
+
+- **Google Cloud – Associate Cloud Engineer**
+- **Technical Support Fundamentals**
+- **IT Security: Defense Against the Digital Dark Arts**
+- **Operating Systems and You: Becoming a Power User**
+- **System Administration and IT Infrastructure Services**
+- **The Bits and Bytes of Computer Networking**
 
 ---
 
