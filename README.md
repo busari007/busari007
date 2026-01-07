@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | Google Cloud Certified Associate Cloud Engineer**
 
-I’m a motivated Full Stack Developer with **5+ years of semi-professional experience** building scalable, user-focused web applications. I specialize in delivering complete features end-to-end;from clean UI/UX to optimized backend logic and cloud deployments.
+I’m a motivated Full Stack Developer with **5+ years of semi-professional experience** building scalable, user-focused web applications. I specialize in delivering complete features end-to-end; from clean UI/UX to optimized backend logic and cloud deployments.
 
 ---
 
